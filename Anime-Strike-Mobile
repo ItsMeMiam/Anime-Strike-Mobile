@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsMeMiam/Anime-Strike/refs/heads/main/Anime-Strike"))()
